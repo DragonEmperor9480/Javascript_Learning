@@ -1,5 +1,5 @@
 const scn = require("readline-sync");
-const a = scn.question("Enter A Number");
+const a = scn.question("Enter A Number\n");
 
 if (a%2==0)
     {
