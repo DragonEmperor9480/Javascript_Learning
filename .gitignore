@@ -1,2 +1,5 @@
 *.json
 node_modules/*
+node_js_stuff/node_modules/*
+test.js
+test2.js
