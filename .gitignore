@@ -1,4 +1,5 @@
-*.json
+package.json
+package-lock.json
 node_modules/*
 node_js_stuff/node_modules/*
 test.js
